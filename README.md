@@ -4,13 +4,13 @@ Aplicativo Flutter para simular investimentos mensais, permitindo visualizar o m
 
 ---
 
-## 📌 Contexto
+## Contexto
 
 Uma alternativa ao financiamento é poupar e investir o dinheiro ao longo do tempo. Para bens que não são essenciais, é possível planejar a compra à vista acumulando capital.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver um aplicativo que receba:
 
@@ -25,7 +25,7 @@ E exiba:
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 * Flutter
 * VS Code
@@ -33,7 +33,7 @@ E exiba:
 
 ---
 
-## 🧩 Recursos Utilizados
+## Recursos Utilizados
 
 * Interface com Widgets Flutter
 * Campos de entrada (`TextField`)
@@ -43,7 +43,7 @@ E exiba:
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório
 2. Abra no VS Code
