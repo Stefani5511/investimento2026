@@ -12,7 +12,7 @@ Uma alternativa ao financiamento é poupar e investir o dinheiro ao longo do tem
 
 ## Objetivo
 
-Desenvolver um aplicativo que receba:
+Aplicativo que receba:
 
 * Valor mensal investido
 * Número de meses
@@ -57,7 +57,7 @@ flutter run
 
 ---
 
-## 📸 Tela do App
+## Telas do App
 
 <img src="assets/print1.png" width="300">
 <img src="assets/print2.png" width="300">
